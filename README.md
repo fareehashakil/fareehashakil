@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, Fareeha Shakil here !!! 👋
+
+
+An expeditious individual working as a Data & Business Analyst who is passionate about using data to solve problems experienced in interpreting and analyzing data to drive growth, but my greatest skill is asking the right questions, confident in working under pressure, managing issues, while maintaining project progress and delivering immaculate results to the clients. Seeking a fast-paced environment, which will provide exposure and opportunities for progression and learning.
+
+
+### Technology: 
+
+C#, Python
+
+### Tools: 
+
+Oracle SQL Developer, Tableau, Power BI, Microsoft Excel
+
 
 <!--
 **fareehashakil/fareehashakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
