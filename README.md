@@ -6,11 +6,26 @@ An expeditious individual working as a Data & Business Analyst who is passionate
 
 ### Technology: 
 
-C#, Python
+  •	SQL
+  •	PL/SQL
+  •	Python
 
 ### Tools: 
 
-Oracle SQL Developer, Tableau, Power BI, Microsoft Excel
+  •	Oracle SQL Developer
+  •	Oracle Forms
+  •	Tableau
+  •	Power BI
+  •	Microsoft Excel
+
+### Techniques: 
+
+  •	Data Visualization
+  •	Data Pofiling  
+  •	Data Warehousing
+  •	Data Scrapping
+  •	Data Analysis
+
 
 
 <!--
