@@ -21,11 +21,14 @@
   <li> Tableau  </li>
   <li> Power BI  </li>
   <li> Microsoft Excel  </li>
+  <li> Talend  </li>
+  <li> Anaconda  </li>
   </ul>
 
 ### <h3> Techniques:  </h3>
 
   <ul>
+  <li> ETL  </li>
   <li> Data Visualization  </li>
   <li> Data Pofiling  </li>
   <li> Data Warehousing </li>
