@@ -30,7 +30,7 @@
   <ul>
   <li> ETL  </li>
   <li> Data Visualization  </li>
-  <li> Data Pofiling  </li>
+  <li> Data Profiling  </li>
   <li> Data Warehousing </li>
   <li> Data Scrapping   </li>
   <li> Data Analysis   </li>
