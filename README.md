@@ -1,13 +1,14 @@
 ### <h1> Hi, Fareeha Shakil here !!! 👋 </h1>
 
 
-<p> An expeditious individual working as a Data & Business Analyst who is passionate about using data to solve problems experienced in interpreting and analyzing data to drive growth, but my greatest skill is asking the right questions, confident in working under pressure, managing issues, while maintaining project progress and delivering immaculate results to the clients. Seeking a fast-paced environment, which will provide exposure and opportunities for progression and learning. </p>
+<p> An expeditious individual working as a Data Engineer who is passionate about creating ETL pipelines, using data to solve problems experienced in interpreting and analyzing data to drive growth, but my greatest skill is asking the right questions, confident in working under pressure, managing issues, while maintaining project progress and delivering immaculate results to the clients. Seeking a fast-paced environment, which will provide exposure and opportunities for progression and learning. </p>
 
 
 ### <h3> Technology: </h3>
 
 <ul>
   <li> SQL  </li>
+  <li> PostgreSQL  </li>
   <li> PL/SQL  </li>
   <li> Python  </li>
   </ul>
@@ -23,6 +24,8 @@
   <li> Microsoft Excel  </li>
   <li> Talend  </li>
   <li> Anaconda  </li>
+  <li> PySpark  </li>
+  <li> SSIS  </li>
   </ul>
 
 ### <h3> Techniques:  </h3>
