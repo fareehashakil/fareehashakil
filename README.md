@@ -17,7 +17,7 @@
 ### <h3> Tools: </h3>
 
   <ul>
-  <li> Oracle SQL Developer  </li>
+  <li> SSMS  </li>
   <li> Tableau  </li>
   <li> Power BI  </li>
   <li> SSIS  </li>
